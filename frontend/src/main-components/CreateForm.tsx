@@ -113,6 +113,7 @@ const CreateForm = () => {
           }
           placeholder="Image URL"
           className="p-2 border rounded"
+          required
         />
 
         {/* Submit */}
